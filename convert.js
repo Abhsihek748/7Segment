@@ -1,5 +1,5 @@
 
-     function main( ascii) {
+     function main( ascii) {      // take the parsed file
         
         let result = "";
 
@@ -83,5 +83,5 @@
         
     }
 
-    module.exports = main ;
+    module.exports = main ;    // exports the main function
     
