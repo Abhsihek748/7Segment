@@ -60,9 +60,6 @@
    function digitToString( asciiDigit) {
         if (asciiDigit == null || asciiDigit =="")
             return "";
-        let pow = 0;
-        // for (int i = 0; i < asciiDigit.length(); i++)
-        //     pow += Math.pow(2, Character.getNumericValue(asciiDigit.charAt(i)));
 
         let map = {};
                 map["540312"] = 0;
